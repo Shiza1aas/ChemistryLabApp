@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Chemistry Lab</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="home_content">
+        <item>About</item>
+        <item>Experiments</item>
+        <item>Viva</item>
+        <item>Contact Us</item>
+        <item>Rate Us</item>
+        <item>Share</item>
+    </string-array>
+    <string-array name="experiments">
+        <item>Experiment1</item>
+        <item>Experiment2</item>
+        <item>Experiment3</item>
+        <item>Experiment4</item>
+        <item>Experiment5</item>
+        <item>Experiment6</item>
+        <item>Experiment7</item>
+        <item>Experiment8</item>
+        <item>Experiment9</item>
+        <item>Experiment10</item>
+    </string-array>
+    <string name="title_activity_experiments">Experiments</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="about_heading">About The App</string>
+    <string name="about_content">The app contains all the experiments which you will perform in chemistry lab.
+        The app give a step by step explanation of the experiments. Hope it will help you.
+    </string>
+    <string name="title_activity_experiment_explaination">ExperimentExplaination</string>
+</resources>
